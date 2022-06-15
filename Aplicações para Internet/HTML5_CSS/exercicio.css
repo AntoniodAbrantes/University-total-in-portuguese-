@@ -1,0 +1,31 @@
+body{
+    background-color: aqua; 
+}
+
+.cor-fonte-azul{
+    color: blue;
+}
+
+.br-greenyellow{
+    color: greenyellow;
+}
+
+.bg-azul{
+    background-color: royalblue;
+}
+    a:link{
+        color: blueviolet
+        ;
+    }
+
+a:hover{
+    color: gold;
+}    
+
+a:active{
+    color: crimson;
+}
+
+a:visited{
+    color: deeppink;
+}
